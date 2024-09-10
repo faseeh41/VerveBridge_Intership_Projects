@@ -3,7 +3,7 @@
 This is a web app developed as an internship project for VerveBridge, using React.js and Bootstrap. It allows users to browse products, manage a shopping cart, and proceed to checkout. The app is designed to provide a seamless shopping experience with a professional, responsive interface.
 
 <h2 align="center">
-  <a href="" target="_blank">React-E-Commerce-Faseeh.vercel.app</a>
+  <a href="https://react-e-commerce-faseeh.vercel.app/" target="_blank">React-E-Commerce-Faseeh.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Extra/Src5.PNG" />
