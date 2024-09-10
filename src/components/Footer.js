@@ -16,7 +16,7 @@ const Footer = () => {
         </a>
         , Open sourced on{" "}
         <a
-          href="https://github.com/MFaseehHassan"
+          href="https://github.com/faseeh41/VerveBridge_Intership_Projects"
           target="_blank"
           rel="noopener noreferrer"
         >
