@@ -6,7 +6,7 @@ This is a web app developed as an internship project for VerveBridge, using Reac
   <a href="" target="_blank">React-E-Commerce-Faseeh.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Extra/src5.PNG" />
+  <img alt="Demo" src="./Extra/Src5.PNG" />
   </div>
 
 # Features
